@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Dharasis/node.git"
+    "url": "git+https://github.com/Dharasis/nodesample.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Dharasis/node/issues"
+    "url": "https://github.com/Dharasis/nodesample"
   },
-  "homepage": "https://github.com/Dharasis/node#readme",
+  "homepage": "hhttps://github.com/Dharasis/nodesample#readme",
   "dependencies": {
     "express": "^4.15.2",
     "mysql": "^2.13.0"
